@@ -1,0 +1,11 @@
+#.gitignore
+
+
+# vs code setting
+.vscode
+
+# build directory
+build
+
+# data content
+data/grid.txt
